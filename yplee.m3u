@@ -1,7 +1,5 @@
 #EXTM3U
 #EXTINF:-1 group-title="央视",CCTV1综合
-http://ivi.bupt.edu.cn/hls/cctv1.m3u8
-#EXTINF:-1 group-title="央视",CCTV1综合
 http://cctvalih5ca.v.myalicdn.com/live/cctv1_2/index.m3u8
 #EXTINF:-1 group-title="央视",CCTV1综合HD
 http://ivi.bupt.edu.cn/hls/cctv1hd.m3u8
